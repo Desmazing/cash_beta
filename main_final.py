@@ -1,6 +1,8 @@
 # Python 3.10.1
 # Coding: utf-8
 # this includes the main execution
+# recursion vs function calls was a major debate.
+# next review will eliminate all recursive calls... focus only on parameters
 
 
 import jsonHandler          # this is used to read user data from json file
